@@ -1,4 +1,11 @@
 # LocalStorage-CRUD-app <br/>
+<h2>
+The following exercise contains the following subjects: <br/>
+●  Reducer!! <br/>
+ 
+Refactor state to reducer in this exercise:<br/>
+ </h2>
+
 The following exercise contains the following subjects: <br/>
 ● CRUD <br/>
 ● useState <br/>
